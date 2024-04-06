@@ -18,3 +18,23 @@ ng g c home
 
 put router-outlet in home.component.html
 
+** browser shows routing is working **
+
+ng g c task-list
+
+change home.component.html 
+app-blog-list 
+call blogs array
+
+home.component.ts
+import TaskListComponent
+
+task-list.component.ts
+input []
+
+home.component.ts
+put the array there
+
+** browser shows routing is working **
+
+change html and scss for tasklistcomponent
